@@ -5,6 +5,8 @@
 
 Разработка пайплайна для задачи Face Recognition. Этот проект больше исследовательский, направленный на изучение новой архитектуры нейросети, чтения статей и постановки экспериментов.
 
+В проекте использовался датасет celeba на 1000 классов: https://www.kaggle.com/kirillkruglikov/celeba-1k-classes
+
 ## Что нужно будет делать?
 
 **Основная часть:**
@@ -47,4 +49,3 @@
 * Face detection in Python: https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 * Пример метрики для подсчета качества систем распознавания лиц: http://www.eecs.qmul.ac.uk/~sgg/papers/ChengEtAl_PR2020.pdf (секция 3.2.3)
 
-В проекте использовался датасет celeba на 1000 классов: https://www.kaggle.com/kirillkruglikov/celeba-1k-classes
