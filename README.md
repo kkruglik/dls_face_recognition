@@ -46,3 +46,5 @@
 * Face landmark detection using PyTorch: https://towardsdatascience.com/face-landmarks-detection-with-pytorch-4b4852f5e9c4
 * Face detection in Python: https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 * Пример метрики для подсчета качества систем распознавания лиц: http://www.eecs.qmul.ac.uk/~sgg/papers/ChengEtAl_PR2020.pdf (секция 3.2.3)
+
+В проекте использовался датасет celeba на 1000 классов: https://www.kaggle.com/kirillkruglikov/celeba-1k-classes
